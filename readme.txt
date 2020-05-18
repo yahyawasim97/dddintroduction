@@ -1,9 +1,21 @@
-"Boxify" One Page Website Template by Peter Finlan for Codrops
+# Driver Drowsiness Introduction 
 
-Demo: http://tympanus.net/Freebies/Boxify/
-Download and article: http://tympanus.net/codrops/?p=22554
+This project is an introductory website for an Exclusive, EEG based Driver Drowsiness Detection system submitted as a Final Year Project to Bahria University.
 
-Use it freely but please do not redistribute or sell.
-Read more here: http://tympanus.net/codrops/licensing/
+## Getting Started
 
-Enjoy!
+To get started developing right away:
+
+1. Clone the application:
+`$ git clone https://github.com/yahyawasim97/dddintroduction`
+
+2. Start the application:
+`open index.html`
+
+## Functionality
+
+This project is used to detect driver drowsiness by analyzing EEG(electroencephalogram) signals of the driver. It is based on MERN stack and uses the principals of Artificial Intelligence to produce more accurate results. The quality of this system is that is not affected by Environmental Factors
+
+
+## Contributing
+The main purpose of this repository is to provide some contribution in Brain Computing.
